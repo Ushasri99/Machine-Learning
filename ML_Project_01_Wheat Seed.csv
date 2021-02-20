@@ -1,0 +1,14 @@
+ML_Project_01_Wheat Seed ,,,,,
+S.no,Algorithms,,,,Accuracy score
+1,KNN,,,,0.976190476
+2,LogisticRegression,,,,0.976190476
+3,LinearRegression,,,,0.843866171
+4,DecisionTree,,,,0.952380952
+5,Random Forest,,,,0.976190476
+6,AdaBoostClassifier,,,,0.619047619
+7,GradientBoostingClassifier,,,,1
+8,xgboost,,,,0.976190476
+9,SVM Classifier,,,,
+,Linear Kernel,,,,1
+,polynomial kernel,,,,0.857142857
+,Gaussian Kernel,,,,0.976190476
